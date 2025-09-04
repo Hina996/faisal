@@ -5,7 +5,7 @@ const Page = () => {
     <div>
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
         <Image
-          src="/profile.png"
+          src="/pakistan.png"
           alt="Picture of the author"
           width={500}
           height={500}
